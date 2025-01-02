@@ -14,10 +14,10 @@
         <!-- Project Section -->
         <section>
             <h2>Database Design and Implementation</h2>
-            <h3>(Oracle SQL Modeler/PostgreSQL)</h3>
+            <h3>(Oracle SQL Modeler/Oracle Live SQL)</h3>
             <img src="database-diagram.png" alt="Database Diagram" style="max-width: 100%; height: auto;">
             <p>
-                In this project, I design an information system for an hotel using Oracle SQL Modeler.
+                In this project, I designed an information system for an hotel using Oracle SQL Modeler.
                 I then implement the database using Oracle Live SQL. I also wrote some queries to derive insights from the
                 database and discuss data security, integrity, and ethics.
             </p>
