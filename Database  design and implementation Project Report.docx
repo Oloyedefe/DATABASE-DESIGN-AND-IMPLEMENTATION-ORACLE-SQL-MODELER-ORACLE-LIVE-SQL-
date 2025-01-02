@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Ayokunle's Portfolio</h1>
+        <h1>Oloyede's Portfolio</h1>
     </header>
     <main>
         <!-- Project Section -->
@@ -17,8 +17,8 @@
             <h3>(Oracle SQL Modeler/PostgreSQL)</h3>
             <img src="database-diagram.png" alt="Database Diagram" style="max-width: 100%; height: auto;">
             <p>
-                In this project, I design an information system for a humanitarian organization using Oracle SQL Modeler.
-                I then implement the database using PostgreSQL. I also write some queries to derive insights from the
+                In this project, I design an information system for an hotel using Oracle SQL Modeler.
+                I then implement the database using Oracle Live SQL. I also wrote some queries to derive insights from the
                 database and discuss data security, integrity, and ethics.
             </p>
             <a href="link-to-project-details.html" class="button">View Project</a>
