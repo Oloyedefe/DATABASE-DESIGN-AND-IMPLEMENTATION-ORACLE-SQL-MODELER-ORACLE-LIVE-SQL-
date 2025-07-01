@@ -1,1 +1,0 @@
-In this project, I designed an information system for an hotel (hotel reservation system) using Oracle SQL Modeler. I also wrote some queries to draw some insights from the database, and discussed data security, integrity and ethics.
